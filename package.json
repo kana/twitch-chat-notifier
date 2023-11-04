@@ -1,6 +1,7 @@
 {
   "name": "twitch-chat-notifier",
   "packageManager": "yarn@4.0.0-rc.53",
+  "type": "module",
   "devDependencies": {
     "prettier": "3.0.3"
   },
