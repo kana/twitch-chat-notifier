@@ -3,5 +3,8 @@
   "packageManager": "yarn@4.0.0-rc.53",
   "devDependencies": {
     "prettier": "3.0.3"
+  },
+  "dependencies": {
+    "tmi.js": "^1.8.5"
   }
 }
